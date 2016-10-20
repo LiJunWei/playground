@@ -13,7 +13,7 @@ Avatar | Nickname | github id
 ![QG Avatar](https://avatars3.githubusercontent.com/u/2939865?v=3&s=48)|QuantumGhost|[QuantumGhost](https://github.com/QuantumGhost)
 ![Too's Avatar](https://avatars3.githubusercontent.com/u/171673?v=3&s=48)|too|[too](https://github.com/too)
 ![haobug avatar](https://avatars1.githubusercontent.com/u/1269309?v=3&s=48)|haobug|[haobug](https://github.com/haobug)
-![lijunwei avatar](https://avatars3.githubusercontent.com/u/5803500?v=3&u=987ddb76343a86d624607b940beab2ebf6406a14&s=140)|李俊伟|[LiJunWei](https://github.com/LiJunWei)
+![lijunwei avatar](https://avatars3.githubusercontent.com/u/5803500?v=3&s=48)|李俊伟|[LiJunWei](https://github.com/LiJunWei)
 ## Projects
 
 [pydoit/doit](https://github.com/pydoit/doit)
